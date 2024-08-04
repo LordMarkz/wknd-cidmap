@@ -642,18 +642,16 @@
 		]
 	},
 	{
-		"title": "Procopio Beach",
+		"title": "Fudge Lane",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
-			{"lat": 78.325, "lng": 2.943},
-			{"lat": 78.325, "lng": 30.151},
-			{"lat": 77.678, "lng": 30.151},
-			{"lat": 77.678, "lng": 0.099},
-			{"lat": 77.903, "lng": 0.099},
-			{"lat": 77.905, "lng": 2.943}
+			{"lat": -71.235, "lng": 17.419},
+			{"lat": -75.443, "lng": 17.385},
+			{"lat": -75.439, "lng": 28.092},
+			{"lat": -71.221, "lng": 28.124}
 		]
 	},
 	{
