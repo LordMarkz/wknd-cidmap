@@ -130,28 +130,16 @@ $(function() {
 			name: 'General',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Neighborhoods',
+					name: 'Rajoonid',
 					icon: 'radar/radar_warehouse.png',
 					enabled: false,
 					url: 'data/neighborhoods.json',
 				}),
 				new CategoryModel({
-					name: 'Neutral',
+					name: 'Ohtlikud alad',
 					icon: 'General/glitches.png',
 					enabled: true,
 					url: 'data/neutral.json',
-				}),
-				new CategoryModel({
-					name: 'Automotive',
-					icon: 'radar/radar_acsr_race_hotring.png',
-					enabled: true,
-					url: 'data/automotive.json',
-				}),
-				new CategoryModel({
-					name: 'Medical',
-					icon: 'radar/radar_hospital.png',
-					enabled: true,
-					url: 'data/medical.json',
 				}),
 			]),
 		}),
