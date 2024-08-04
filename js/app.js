@@ -139,7 +139,7 @@ $(function() {
 					name: 'Ohtlikud alad',
 					icon: 'General/glitches.png',
 					enabled: true,
-					url: 'data/neutral.json',
+					url: 'data/turfs.json',
 				}),
 			]),
 		}),
