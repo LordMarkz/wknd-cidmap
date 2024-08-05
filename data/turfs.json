@@ -4,7 +4,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -56.469, "lng": -16.248},
 			{"lat": -56.469, "lng": 2.537},
@@ -40,7 +40,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -71.549, "lng": -23.199},
 			{"lat": -71.549, "lng": -16.751},
@@ -53,7 +53,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -68,7 +68,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -12.272},
 			{"lat": -71.551, "lng": -4.542},
@@ -114,26 +114,11 @@
 		]
 	},
 	{
-		"title": "Downtown",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -61.051, "lng": -26.659},
-			{"lat": -61.051, "lng": -0.351},
-			{"lat": -61.903, "lng": -0.351},
-			{"lat": -61.903, "lng": -22.826},
-			{"lat": -63.921, "lng": -22.826},
-			{"lat": -63.921, "lng": -26.659}
-		]
-	},
-	{
 		"title": "Downtown Vinewood",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -146,7 +131,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -53.621, "lng": 5.168},
 			{"lat": -53.621, "lng": 12.642},
@@ -205,7 +190,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -53.373, "lng": -16.248},
 			{"lat": -53.373, "lng": 5.168},
@@ -218,7 +203,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -61.051, "lng": -0.351},
 			{"lat": -61.051, "lng": 10.272},
@@ -241,7 +226,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -61.932, "lng": -47.535},
 			{"lat": -61.932, "lng": -46.011},
@@ -274,7 +259,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -383,7 +368,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -422,23 +407,6 @@
 			{"lat": -62.536, "lng": -51.549},
 			{"lat": -61.552, "lng": -51.549},
 			{"lat": -61.552, "lng": -52.526}
-		]
-	},
-	{
-		"title": "Richman",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -44.544, "lng": -72.862},
-			{"lat": -44.544, "lng": -55.857},
-			{"lat": -54.893, "lng": -55.857},
-			{"lat": -54.893, "lng": -65.005},
-			{"lat": -52.966, "lng": -65.005},
-			{"lat": -52.966, "lng": -69.399},
-			{"lat": -50.345, "lng": -69.399},
-			{"lat": -50.345, "lng": -72.862}
 		]
 	},
 	{
@@ -519,7 +487,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -616,43 +584,28 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "F0682E",
 		"latlngarray": [
-			{"lat": -63.832, "lng": -48.911},
-			{"lat": -63.832, "lng": -41.994},
-			{"lat": -66.147, "lng": -41.994},
-			{"lat": -66.147, "lng": -38.469},
-			{"lat": -67.401, "lng": -38.469},
-			{"lat": -67.401, "lng": -37.381},
-			{"lat": -69.469, "lng": -37.381},
-			{"lat": -69.469, "lng": -46.797},
-			{"lat": -71.543, "lng": -46.797},
-			{"lat": -71.543, "lng": -49.708},
-			{"lat": -70.169, "lng": -49.708},
-			{"lat": -70.169, "lng": -50.669},
-			{"lat": -69.059, "lng": -50.669},
-			{"lat": -69.059, "lng": -52.101},
-			{"lat": -68.012, "lng": -52.101},
-			{"lat": -68.012, "lng": -53.182},
-			{"lat": -66.732, "lng": -53.182},
-			{"lat": -66.732, "lng": -51.605},
-			{"lat": -65.409, "lng": -51.605},
-			{"lat": -65.409, "lng": -48.911}
-		]
-	},
-	{
-		"title": "Vinewood",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -60.141, "lng": -22.035},
-			{"lat": -60.141, "lng": -3.584},
-			{"lat": -59.909, "lng": -3.584},
-			{"lat": -59.909, "lng": -0.894},
-			{"lat": -61.051, "lng": -0.894},
-			{"lat": -61.051, "lng": -22.035}
+			{"lat": -63.838, "lng": -48.915},
+			{"lat": -63.834, "lng": -41.980},
+			{"lat": -65.356, "lng": -41.991},
+			{"lat": -65.337, "lng": -39.915},
+			{"lat": -66.150, "lng": -39.904},
+			{"lat": -66.152, "lng": -38.478},
+			{"lat": -67.395, "lng": -38.467},
+			{"lat": -67.404, "lng": -37.380},
+			{"lat": -69.466, "lng": -37.391},
+			{"lat": -69.470, "lng": -46.806},
+			{"lat": -71.542, "lng": -46.793},
+			{"lat": -71.539, "lng": -49.716},
+			{"lat": -70.175, "lng": -49.698},
+			{"lat": -70.168, "lng": -50.643},
+			{"lat": -68.054, "lng": -50.621},
+			{"lat": -68.005, "lng": -53.147},
+			{"lat": -66.737, "lng": -53.147},
+			{"lat": -66.737, "lng": -51.609},
+			{"lat": -65.419, "lng": -51.587},
+			{"lat": -65.409, "lng": -48.885}
 		]
 	},
 	{
