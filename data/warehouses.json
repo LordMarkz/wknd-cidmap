@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Vespucci Canals",
+		"notes": "",
+        "wiki_link": "https://imgur.com/a/i6wGdrQ",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -68.782, "lng": -49.886},
+            {"lat": -68.659, "lng": -49.084},
+            {"lat": -69.079, "lng": -48.810},
+            {"lat": -69.137, "lng": -49.590}
+		]
+	}
+]
