@@ -141,6 +141,12 @@ $(function() {
 					enabled: true,
 					url: 'data/turfs.json',
 				}),
+				new CategoryModel({
+					name: 'Laod',
+					icon: 'radar/radar_warehouse.png',
+					enabled: true,
+					url: 'data/warehouses.json',
+				}),
 			]),
 		}),
 	]);
