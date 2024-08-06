@@ -54,5 +54,61 @@
 			{"lat": -60.596, "lng": 20.546},
 			{"lat": -60.515, "lng": 19.887}
 		]
+	},
+	{
+		"title": "Paleto Bay warehouse",
+		"notes": "",
+        "wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 76.406, "lng": -11.105},
+			{"lat": 76.550, "lng": -9.919},
+			{"lat": 76.336, "lng": -9.446},
+			{"lat": 76.192, "lng": -10.666}
+		]
+	},
+	{
+		"title": "Grapeseed warehouse",
+		"notes": "",
+        "wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 61.343, "lng": 51.577},
+			{"lat": 61.626, "lng": 52.127},
+			{"lat": 61.264, "lng": 52.907},
+			{"lat": 60.999, "lng": 52.292}
+		]
+	},
+	{
+		"title": "Little Seoul warehouse",
+		"notes": "",
+        "wiki_link": "https://imgur.com/a/lSZzFt9",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -63.548, "lng": -35.612},
+			{"lat": -63.563, "lng": -34.239},
+			{"lat": -63.932, "lng": -34.228},
+			{"lat": -63.942, "lng": -35.656}
+		]
+	},
+	{
+		"title": "La Mesa warehouse",
+		"notes": "",
+        "wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -64.715, "lng": 4.753},
+			{"lat": -64.715, "lng": 5.654},
+			{"lat": -65.115, "lng": 5.632},
+			{"lat": -65.106, "lng": 4.731}
+		]
 	}
 ]
