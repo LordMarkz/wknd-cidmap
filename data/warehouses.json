@@ -26,5 +26,33 @@
 			{"lat": -70.008, "lng": -51.893},
 			{"lat": -70.217, "lng": -53.574}
 		]
+	},
+	{
+		"title": "Cypress Flats warehouse",
+		"notes": "",
+        "wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -78.712, "lng": 13.807},
+			{"lat": -78.734, "lng": 14.741},
+			{"lat": -78.923, "lng": 14.620},
+			{"lat": -78.904, "lng": 13.697}
+		]
+	},
+	{
+		"title": "Mirror Park warehouse",
+		"notes": "",
+        "wiki_link": "https://imgur.com/a/aNudsvJ",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -60.123, "lng": 20.162},
+			{"lat": -60.200, "lng": 20.733},
+			{"lat": -60.596, "lng": 20.546},
+			{"lat": -60.515, "lng": 19.887}
+		]
 	}
 ]
