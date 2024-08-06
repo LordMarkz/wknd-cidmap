@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Vespucci Canals",
+		"title": "Vespucci Canals warehouse",
 		"notes": "",
         "wiki_link": "https://imgur.com/a/i6wGdrQ",
 		"order": 0,
@@ -11,6 +11,20 @@
             {"lat": -68.659, "lng": -49.084},
             {"lat": -69.079, "lng": -48.810},
             {"lat": -69.137, "lng": -49.590}
+		]
+	},
+	{
+		"title": "Vespucci Beach warehouse",
+		"notes": "Entrance unknown",
+        "wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -69.537, "lng": -54.080},
+			{"lat": -69.444, "lng": -52.542},
+			{"lat": -70.008, "lng": -51.893},
+			{"lat": -70.217, "lng": -53.574}
 		]
 	}
 ]
