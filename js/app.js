@@ -130,10 +130,10 @@ $(function() {
 			name: 'General',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Rajoonid',
+					name: 'Laod',
 					icon: 'radar/radar_warehouse.png',
-					enabled: false,
-					url: 'data/neighborhoods.json',
+					enabled: true,
+					url: 'data/warehouses.json',
 				}),
 				new CategoryModel({
 					name: 'Ohtlikud alad',
@@ -142,10 +142,10 @@ $(function() {
 					url: 'data/turfs.json',
 				}),
 				new CategoryModel({
-					name: 'Laod',
+					name: 'Rajoonid',
 					icon: 'radar/radar_warehouse.png',
-					enabled: true,
-					url: 'data/warehouses.json',
+					enabled: false,
+					url: 'data/neighborhoods.json',
 				}),
 			]),
 		}),
