@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Lost MC Clubhouse",
+		"notes": "",
+        "wiki_link": "",
+		"order": 0,
+		"strokecolor": "98FF98",
+		"fillcolor": "98FF98",
+		"latlngarray": [
+			{"lat": -55.172, "lng": 12.121},
+            {"lat": -54.438, "lng": 13.429},
+            {"lat": -55.160, "lng": 14.582},
+            {"lat": -55.708, "lng": 13.605}
+		]
+	}
+]
