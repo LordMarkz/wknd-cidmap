@@ -136,6 +136,12 @@ $(function() {
 					url: 'data/warehouses.json',
 				}),
 				new CategoryModel({
+					name: 'Jõukude HQ',
+					icon: 'radar/radar_garage.png',
+					enabled: true,
+					url: 'data/headquarters.json',
+				}),
+				new CategoryModel({
 					name: 'Ohtlikud alad',
 					icon: 'General/glitches.png',
 					enabled: true,
